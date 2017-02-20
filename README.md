@@ -20,3 +20,5 @@ AXA's base ESLint RC, extending [Airbnb's base ESLint config](https://www.npmjs.
   npm info "@axa-ch/eslint-config-axa-base@latest" peerDependencies
   npm info "eslint-config-airbnb-base@latest" peerDependencies
   ```
+
+3. Add `"exetnds": "axa-base"` to your .eslintrc
