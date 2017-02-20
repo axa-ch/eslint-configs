@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-axa-base",
+  "name": "@axa-ch/eslint-config-axa-base",
   "version": "1.0.0",
   "description": "AXA's base ESLint RC, extending Airbnb's base ESLint config",
   "main": "index.js",
