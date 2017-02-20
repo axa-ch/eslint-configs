@@ -1,0 +1,22 @@
+{
+  "name": "eslint-rc-base",
+  "version": "1.0.0",
+  "description": "AXA's base ESLint RC, extending Airbnb's base ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-ch/eslint-rc-base.git"
+  },
+  "keywords": [
+    "ESLint"
+  ],
+  "author": "AXA Versicherungen AG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axa-ch/eslint-rc-base/issues"
+  },
+  "homepage": "https://github.com/axa-ch/eslint-rc-base#readme"
+}
