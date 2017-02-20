@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/axa-ch/eslint-config-axa-base/issues"
   },
-  "homepage": "https://github.com/axa-ch/eslint-config-axa-base#readme"
+  "homepage": "https://github.com/axa-ch/eslint-config-axa-base#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^11.1.0"
+  }
 }
