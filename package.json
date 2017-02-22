@@ -1,0 +1,27 @@
+{
+  "name": "@axa-ch/eslint-config-axa-react",
+  "version": "1.0.0",
+  "description": "AXA's React ESLint RC, extending Airbnb's ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-ch/eslint-config-axa-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "AXA Versicherungen AG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axa-ch/eslint-config-axa-react/issues"
+  },
+  "homepage": "https://github.com/axa-ch/eslint-config-axa-react#readme",
+  "devDependencies": {
+    "@axa-ch/eslint-config-axa-base": "^1.0.0",
+    "eslint-config-airbnb": "^14.1.0"
+  }
+}
