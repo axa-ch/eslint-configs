@@ -2,5 +2,5 @@
 
 This repo collects all common ESLint configs for AXA.
 
-- [eslint-preset-axa-base](./packages/eslint-preset-axa-base)
-- [eslint-preset-axa-react](./packages/eslint-preset-axa-react)
+- [eslint-config-axa-base](./packages/eslint-config-axa-base)
+- [eslint-config-axa-react](./packages/eslint-config-axa-react)
