@@ -20,7 +20,10 @@
     "url": "https://github.com/axa-ch/eslint-config-axa-react/issues"
   },
   "homepage": "https://github.com/axa-ch/eslint-config-axa-react#readme",
-  "devDependencies": {
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
     "@axa-ch/eslint-config-axa-base": "^1.0.0",
     "eslint-config-airbnb": "^14.1.0"
   }
