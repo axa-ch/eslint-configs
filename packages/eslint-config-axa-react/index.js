@@ -21,5 +21,6 @@ module.exports = {
     'react/jsx-boolean-value': 'warn',
     'react/jsx-closing-bracket-location': ['error', 'after-props'],
     'react/prop-types': 'warn',
+    'react/jsx-no-bind': 'error',
   }
 }
